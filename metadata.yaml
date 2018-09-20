@@ -1,5 +1,5 @@
 _repo: The-Battle-of-Verdun-1914-1918_53408
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Verdun and the Battles for Its Possession
 contributor:
   publisher_contributor:
@@ -13,7 +13,12 @@ contributor:
     - Michelin et cie.
     gutenberg_agent_id: '44747'
     url: http://www.gutenberg.org/2009/agents/44747
+covers:
+- cover_type: archival
+  image_path: 53408-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53408#The-Battle-of-Verdun-1914-1918
 gutenberg_issued: '2016-10-30'
 gutenberg_type: Text
 identifiers:
