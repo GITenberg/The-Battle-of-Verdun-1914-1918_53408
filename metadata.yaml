@@ -1,0 +1,33 @@
+_repo: The-Battle-of-Verdun-1914-1918_53408
+_version: 0.0.1
+alternative_title: Verdun and the Battles for Its Possession
+contributor:
+  publisher_contributor:
+    agent_name: Pneu Michelin (Firm)
+    aliases:
+    - Manufacture française des pneumatiques Michelin
+    - Michelin Band (Firm)
+    - 'Michelin (Firm : France)'
+    - Manufacture francaise des pneumatiques Michelin
+    - Michelin & cie.
+    - Michelin et cie.
+    gutenberg_agent_id: '44747'
+    url: http://www.gutenberg.org/2009/agents/44747
+description: ''
+gutenberg_issued: '2016-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Illustrated Michelin Guides to the Battle-Fields (1914 1918)
+subjects:
+- !lcc 'D501'
+- !lcsh 'Verdun, Battle of, Verdun, France, 1916'
+- !lcc 'DC'
+- !lcsh 'Verdun (France) -- Guidebooks'
+- GITenberg
+title: The Battle of Verdun (1914-1918)
+url: http://www.gutenberg.org/ebooks/53408
